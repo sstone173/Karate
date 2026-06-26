@@ -10,4 +10,4 @@ Appendices were added to include additional information that was collected from 
 > This manual is formatted for double-sided printing, that's what the "DS" represents in the filename.
 
 ## Promotion Notes
-These are my various notes collected containing questions asked during promotions that I've attended.
+These are my various notes containing questions and information collected during promotions that I've attended.
