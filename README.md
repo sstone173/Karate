@@ -7,7 +7,7 @@ I've updated the original Student Manual to a DOCX (Microsoft Word) format in or
 Appendices were added to include additional information that was collected from various handouts, etc. These pages are not original to the manual but have been added for completeness and will be updated over time as new information comes along.
 
 > [!TIP]
-> This manual is formatted for double-sided printing, that's what the "DS" represents in the filename.
+> This manual is formatted for double-sided printing.
 
 ## Promotion Notes
 These are my various notes containing questions and information collected during promotions that I've attended.
