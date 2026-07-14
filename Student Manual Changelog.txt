@@ -1,19 +1,46 @@
--6/16/2026-
-p2 grammar corrections
-p5 grammar corrections
-p7 grammar corrections
-p9 grammar corrections
-p11 added patch image for reference
-p18 grammar corrections
-p20 grammar corrections
-p21 grammar corrections
-p26 corrected image
-p32 grammar corrections
-p33 grammar corrections
-p37 grammar corrections
-p39 grammar corrections
-p40 grammar corrections
-p42 grammar corrections
-p43 grammar corrections
-p44 grammar corrections
+-7/14/2026-
+Standardized on Sōke
+Standardized on Isshin-ryū
+Standardized on ryū
+Standardized on karateka
+p46 grammar/formatting corrections
+p47 grammar/formatting corrections
+p48 grammar/formatting corrections
+p50 grammar/formatting corrections
+p52 grammar/formatting corrections
+p53 grammar/formatting corrections
+p57 grammar/formatting corrections
+p63 grammar/formatting corrections
+p64 grammar/formatting corrections
+p65 grammar/formatting corrections
+p68 grammar/formatting corrections
+p69 grammar/formatting corrections
+p71 grammar/formatting corrections
+p72 grammar/formatting corrections
+p73 grammar/formatting corrections
+p75 grammar/formatting corrections
+p84 grammar/formatting corrections
+p86 grammar/formatting corrections
+p87 grammar/formatting corrections
+p89 grammar/formatting corrections
+p91 grammar/formatting corrections
+p92 grammar/formatting corrections
 
+-6/16/2026-
+p2 grammar/formatting corrections
+p5 grammar/formatting corrections
+p7 grammar/formatting corrections
+p9 grammar/formatting corrections
+p11 added patch image for reference
+p18 grammar/formatting corrections
+p20 grammar/formatting corrections
+p21 grammar/formatting corrections
+p26 corrected image
+p32 grammar/formatting corrections
+p33 grammar/formatting corrections
+p37 grammar/formatting corrections
+p39 grammar/formatting corrections
+p40 grammar/formatting corrections
+p42 grammar/formatting corrections
+p43 grammar/formatting corrections
+p44 grammar/formatting corrections
